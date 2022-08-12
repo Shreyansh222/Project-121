@@ -1,0 +1,39 @@
+body
+{
+background-color: aqua;
+}
+
+p
+{
+font-size: 25px;
+font-weight: bold;
+letter-spacing: 1px;
+}
+
+.footer
+{
+color: black;
+font-size: 15px;
+text-align: center;
+width: 100%;
+position: fixed;
+bottom: 0px;
+background-color: aqua;
+line-height: 1;
+text-shadow: 5px,5px,5px rgb(151,149,149);
+}
+
+h4
+{
+color: white;
+font-weight: bold;
+}
+
+.Not
+{
+color: red;
+}
+
+b{
+color: purple;
+}
